@@ -1,0 +1,40 @@
+
+.wrap_block_menu_toggle {
+    background: #000 none repeat scroll 0 0;
+    color: #fff;
+    height: 500px;
+    left: 50%;
+    line-height: 60px;
+    margin-left: -150px;
+    opacity: 0.7;
+    padding-top: 35px;
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    z-index: 1000;
+}
+
+.span_close {
+    cursor: pointer;
+    font-size: 30px;
+    position: absolute;
+    right: 15px;
+    top: -5px;
+    width: 30px;
+}
+
+ul {
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+ul > li {
+    list-style-type: none;
+}
+
+.nav-vertical a {
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+}
